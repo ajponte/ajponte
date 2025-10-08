@@ -16,7 +16,7 @@ Experienced technical leader and software architect specializing in distributed 
 ## Experience
 
 ### Tech-Lead – Web Services  
-**AndGo by Goodyear** | June 2023 – July 2025
+**AndGo by Goodyear** | June 2023 – August 2025
 
 - Led multiple distributed backend systems powering Goodyear's fleet maintenance platform.
 - Set long-term architectural vision and introduced key backend patterns adopted across teams.
