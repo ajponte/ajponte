@@ -3,7 +3,7 @@
 **Technical Leader • Backend Architect • Distributed Systems Expert**
 
 [LinkedIn](https://www.linkedin.com/in/alan-jason-ponte/) | [GitHub](https://github.com/ajponte)  
-📧 alanjponte@gmail.com | 📱 510.303.3352
+📧 alanjponte@gmail.com
 
 ---
 
