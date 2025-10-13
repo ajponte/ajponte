@@ -1,6 +1,6 @@
 # Alan J. Ponte
 
-**Technical Leader • Backend Architect • Distributed Systems Expert**
+**Technical Leader • Backend Architect • Distributed Systems Engineer**
 
 [LinkedIn](https://www.linkedin.com/in/alan-jason-ponte/) | [GitHub](https://github.com/ajponte)  
 📧 alanjponte@gmail.com
