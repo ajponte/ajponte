@@ -105,4 +105,4 @@ B.A. in Applied Mathematics (Economics concentration), Dec 2013
 
 ---
 
-_This README was generated from my professional resume. For more details or to connect, reach out on [LinkedIn](https://www.linkedin.com/in/alan-jason-ponte/) or [GitHub](https://github.com/ajponte)._
+_This README was generated from my professional resume. For more details or to connect, reach out on [LinkedIn](https://www.linkedin.com/in/alan-jason-ponte/)
