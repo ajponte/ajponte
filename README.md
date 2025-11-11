@@ -5,7 +5,7 @@
 
 ## Overview
 
-Software engineer specializing in distributed systems, backend engineering, and scalable SaaS platforms. Proven track record of leading cross-functional teams, mentoring engineers, and delivering resilient, business-critical infrastructure in fast-paced environments. Adept at aligning technical direction with organizational outcomes, driving architectural excellence, and fostering a collaborative engineering culture.
+Software Engineer specializing in distributed systems, backend engineering, and scalable SaaS platforms. Proven track record of leading cross-functional teams, mentoring engineers, and delivering resilient, business-critical infrastructure in fast-paced environments. Adept at aligning technical direction with organizational outcomes, driving architectural excellence, and fostering a collaborative engineering culture.
 
 ---
 
