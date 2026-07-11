@@ -11,6 +11,16 @@ Software Engineer specializing in distributed systems, backend engineering, and 
 
 ## Experience
 
+### Senior Software Engineer  
+**Hinge Health** | August 2025 – Present
+
+- Integrated into the ROI data ingestion pod, focusing on identity resolution flows and robust backend infrastructure.
+- Authored a comprehensive technical RFC for claims ingestion automation to streamline data processing pipelines.
+- Provided technical direction and execution guidance to engineering colleagues on implementing core business logic for automation initiatives.
+- Developed extensible member ID capabilities within the core data provider gateway service (PDGS) repository.
+
+---
+
 ### Tech-Lead – Web Services  
 **AndGo by Goodyear** | June 2023 – August 2025
 
@@ -103,4 +113,4 @@ B.A. in Applied Mathematics (Economics concentration), Dec 2013
 
 ---
 
-_This README was generated from my professional resume. For more details or to connect, reach out on [LinkedIn](https://www.linkedin.com/in/alan-jason-ponte/)
+_This README was generated from my professional resume. For more details or to connect, reach out on [LinkedIn](https://www.linkedin.com/in/alan-jason-ponte/)_
