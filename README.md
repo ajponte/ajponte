@@ -14,12 +14,8 @@ Software Engineer specializing in distributed systems, backend engineering, and 
 ### Senior Software Engineer  
 **Hinge Health** | August 2025 – Present
 
-- **Identity Resolution Architecture:** Architected and implemented complex identity resolution and data alignment flows using **AWS RDS** and **Lambda** within high-throughput gateway infrastructure.
-- **Workflow Automation & Resilient Orchestration:** Authored comprehensive technical RFCs and built distributed state machines using **Temporal** to automate complex data ingestion pipelines, mitigating transient failures and ensuring eventual consistency.
-- **Data Pipeline & Analytics Scaling:** Optimized large-scale data transformation workflows utilizing **Apache Airflow** and **Databricks** to improve performance, reliability, and business logic visibility across distributed ingestion environments.
-- **Event-Driven Messaging:** Engineered highly decoupled, asynchronous processing architectures leveraging **AWS SNS/SQS** for reliable event delivery and automated ingestion flows.
-- **Technical Mentorship & Delivery:** Provided execution guidance, technical direction, and architectural patterns to engineering peers to ensure clean, resilient implementation of core business logic.
-- **System Extensibility:** Re-engineered core service repositories to support highly extensible member identification structures, ensuring the platform scales to accommodate diverse enterprise clients.
+- Designing and implement data ingestion systems.
+- Primary technologies I'm using are `temporal`, `kafka`, `rds`, `s3`, `sns/sqs`, `databricks`, `airflow`.
 
 ---
 
