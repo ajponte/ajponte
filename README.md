@@ -14,10 +14,12 @@ Software Engineer specializing in distributed systems, backend engineering, and 
 ### Senior Software Engineer  
 **Hinge Health** | August 2025 – Present
 
-- Integrated into the ROI data ingestion pod, focusing on identity resolution flows and robust backend infrastructure.
-- Authored a comprehensive technical RFC for claims ingestion automation to streamline data processing pipelines.
-- Provided technical direction and execution guidance to engineering colleagues on implementing core business logic for automation initiatives.
-- Developed extensible member ID capabilities within the core data provider gateway service (PDGS) repository.
+- **Identity Resolution Architecture:** Architected and implemented complex identity resolution and data alignment flows using **AWS RDS** and **Lambda** within high-throughput gateway infrastructure.
+- **Workflow Automation & Resilient Orchestration:** Authored comprehensive technical RFCs and built distributed state machines using **Temporal** to automate complex data ingestion pipelines, mitigating transient failures and ensuring eventual consistency.
+- **Data Pipeline & Analytics Scaling:** Optimized large-scale data transformation workflows utilizing **Apache Airflow** and **Databricks** to improve performance, reliability, and business logic visibility across distributed ingestion environments.
+- **Event-Driven Messaging:** Engineered highly decoupled, asynchronous processing architectures leveraging **AWS SNS/SQS** for reliable event delivery and automated ingestion flows.
+- **Technical Mentorship & Delivery:** Provided execution guidance, technical direction, and architectural patterns to engineering peers to ensure clean, resilient implementation of core business logic.
+- **System Extensibility:** Re-engineered core service repositories to support highly extensible member identification structures, ensuring the platform scales to accommodate diverse enterprise clients.
 
 ---
 
@@ -105,10 +107,10 @@ B.A. in Applied Mathematics (Economics concentration), Dec 2013
 ## Technical Skills
 
 **Languages:** Python, Java, JavaScript, Bash, Clojure, Lisp, MATLAB  
-**Frameworks:** Flask, FastAPI, Spring MVC, NodeJS/Express, AngularJS, ReactJS  
+**Frameworks:** Temporal, Flask, FastAPI, Spring MVC, NodeJS/Express, AngularJS, ReactJS  
 **Databases & Caching:** MySQL, Postgres, SQLite, Snowflake, Redis, MongoDB, Chroma  
-**Cloud/Tools/CI/CD:** AWS (ECR, S3, RDS, SQS, SNS, MSK, Glue, Cognito), Kubernetes, Docker, Terraform, Spinnaker, GraphQL, Hasura, Swagger, Ansible, Datadog, Nagios, Loggly, ArgoCD  
-**Streaming & Task Processing:** Kafka, Celery, Apache Airflow, RabbitMQ  
+**Cloud/Tools/CI/CD:** AWS (Lambda, ECR, S3, RDS, SQS, SNS, MSK, Glue, Cognito), Kubernetes, Docker, Terraform, Spinnaker, GraphQL, Hasura, Swagger, Ansible, Datadog, Nagios, Loggly, ArgoCD  
+**Streaming, Big Data & Task Processing:** Databricks, Kafka, Apache Airflow, Celery, RabbitMQ  
 **ML:** Linear regression, SVM, Clustering, K-means, LLM, RAG, Vector data stores, pandas
 
 ---
